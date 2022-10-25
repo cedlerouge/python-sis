@@ -1,5 +1,10 @@
 #!/usr/bin/env python 
 
+"""
+This scripts looks for a string in a website
+and write in a csv file every URL that contains the string 
+"""
+
 #import json
 from logging import root
 import requests
